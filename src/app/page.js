@@ -15,7 +15,9 @@ export default function Home() {
         {/* task input */}
         <TaskInput></TaskInput>
         {/* task */}
-        <Task></Task>
+        <Task title="Read a book"></Task>
+        <Task title="Take a shower"></Task>
+        <Task title="Sleep"></Task>
 
         {/* //footer section */}
       </div>
